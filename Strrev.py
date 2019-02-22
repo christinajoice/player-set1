@@ -1,2 +1,3 @@
 str=input("Enter a string")
-print(str[::-1])
+strrev=str[::-1]
+print(strrev)
