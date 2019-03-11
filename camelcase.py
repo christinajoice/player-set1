@@ -1,5 +1,5 @@
 str1=input("Enter a string/sentence")
-li=str1.strip(" ")
-for i in range(len(i)):
+li=str1.split(" ")
+for i in range(len(li)):
   li[i].capitalize()
 print(li)
